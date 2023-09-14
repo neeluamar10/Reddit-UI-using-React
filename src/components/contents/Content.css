@@ -1,0 +1,14 @@
+.content {
+    width: 900px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.popular-post-title {
+    font-weight: 600px;
+}
+
+.main-side-wrapper {
+    display: flex;
+}
+

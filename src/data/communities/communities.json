@@ -1,0 +1,23 @@
+[
+    {
+        "image_src": "images/subreddit.jpg",
+        "name": "animals"
+    },
+    {
+        "image_src": "images/subreddit.jpg",
+        "name": "sports"
+    },
+    {
+        "image_src": "images/subreddit.jpg",
+        "name": "politics"
+    },
+    {
+        "image_src": "images/subreddit.jpg",
+        "name": "health"
+    },
+    {
+        "image_src": "images/subreddit.jpg",
+        "name": "education"
+    }
+
+]
